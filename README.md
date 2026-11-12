@@ -1,7 +1,8 @@
 # Roberto Mazzotta
 
-Senior Full-Stack Engineer in Switzerland, building software since 2011.
-Angular, TypeScript and C#/.NET for Swiss enterprise and public-sector clients.
+Senior Full-Stack Engineer in Switzerland. I build and own web applications from architecture to go-live.
+Angular, React, TypeScript and C#/.NET, plus Node.js, Next.js and LLM integration.
+Building software since 2011, including for Swiss banks, insurers and the Canton of Zurich.
 100% remote, company based in Switzerland.
 
 ## Selected work
@@ -25,7 +26,7 @@ Most of my work is client code and therefore private. The repositories here are 
 
 ## Stack
 
-Angular · TypeScript · C# / ASP.NET Core · Entity Framework Core · SQL Server · PostgreSQL ·
+Angular · React · TypeScript · C# / ASP.NET Core · Entity Framework Core · SQL Server · PostgreSQL ·
 Next.js · Node.js · Azure · Azure DevOps · OpenShift · Docker · Cypress · Jest · Playwright
 
 ## Contact
